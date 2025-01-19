@@ -91,5 +91,5 @@ Generated plots and visualizations:
 ## Contact
 
 For questions or collaborations:
-	•	Author Name: iwayoden@gmail.com
-	•	GitHub: [[GitHub Profile Link](https://github.com/DennisWayo)]
+* Author Name: iwayoden@gmail.com
+* GitHub: [[GitHub Profile Link](https://github.com/DennisWayo)]
