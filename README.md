@@ -24,8 +24,8 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
  ```bash
-git clone https://github.com/username/Nordgren-Fracture-Simulation.git
-cd Nordgren-Fracture-Simulation
+git clone https://github.com/username/Nordgren-FracSim.git
+cd Nordgren-FracSim
 ```
 
 2. Install dependencies:
