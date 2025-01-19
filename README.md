@@ -11,20 +11,6 @@ The project combines Physics-Informed Neural Networks (PINNs), Variational Quant
 * Detailed visualization of results (e.g., spatiotemporal evolution, loss curves).
 * Comparison of PINNs, VQE, and implicit schemes for accuracy, computational efficiency, and scalability.
 
- # Reporsitory Structure
- root/
-├── README.md                # Repository overview
-├── LICENSE                  # License for the repository
-├── data/                    # Training and validation datasets
-├── code/                    # Source code
-│   ├── pinn/                # PINN implementation
-│   ├── vqe/                 # VQE implementation
-│   ├── implicit_scheme/     # Implicit scheme validation
-├── figures/                 # Generated figures for analysis
-├── results/                 # Stored results for PINN and VQE
-├── docs/                    # Additional documentation and research paper
-└── requirements.txt         # Python dependencies
-
 # Getting Started
 
 ## Prerequisites
@@ -36,13 +22,13 @@ Ensure you have the following installed:
 * NumPy, Matplotlib, SciPy
 
 ## Installation
-	1.	Clone the repository:
+1. Clone the repository:
  ```bash
 git clone https://github.com/username/Nordgren-Fracture-Simulation.git
 cd Nordgren-Fracture-Simulation
 ```
 
-	2.	Install dependencies:
+2. Install dependencies:
  ```bash
 pip install -r requirements.txt
 ```
