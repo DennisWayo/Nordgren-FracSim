@@ -36,7 +36,7 @@ python pinn_training.py
 
 ## Usage
 
-1. Physics-Informed Neural Networks (PINNs)
+** 1. Physics-Informed Neural Networks (PINNs) **
 
 Navigate to the code/pinn directory and run the training script:
 
@@ -47,7 +47,7 @@ Generated results:
 * Loss curves for training optimizers (Adam, L-BFGS, Newton-CG).
 * Spatiotemporal evolution of fracture width.
 
-2. Variational Quantum Eigensolver (VQE)
+ ** 2. Variational Quantum Eigensolver (VQE)  **
 
 Navigate to the code/vqe directory and execute the VQE optimization script:
 
@@ -58,7 +58,7 @@ Generated results:
 * Quantum circuit visualization.
 * Energy minimization for fracture optimization.
 
-3. Implicit Scheme Validation
+ ** 3. Implicit Scheme Validation  **
 
 Navigate to the code/implicit_scheme directory and run the validation script:
 
