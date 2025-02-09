@@ -26,7 +26,7 @@ The project combines Physics-Informed Neural Networks (PINNs), Variational Quant
 Navigate to the code/pinn directory and run the training script:
 
  ```bash
-python nordgren_pinn.ipynb
+ nordgren_pinn.ipynb
 ```
 Generated results:
 * Loss curves for training optimizers (Adam, L-BFGS, Newton-CG).
@@ -37,7 +37,7 @@ Generated results:
 Navigate to the code/vqe directory and execute the VQE optimization script:
 
  ```bash
-python nordgren_vqe.ipynb
+ nordgren_vqe.ipynb
 ```
 Generated results:
 * Quantum circuit visualization.
@@ -47,8 +47,8 @@ Generated results:
 
 Navigate to the code/implicit_scheme directory and run the validation script:
 
-```bash
-python implicit_scheme_validation.py
+```python
+ Implicitvalid.ipynb
 ```
 
 ## Results
