@@ -1,10 +1,11 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Build Status](https://img.shields.io/badge/PINN-yes-green)
 ![Build Status](https://img.shields.io/badge/VQE-yes-green)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-gold)
 ![GitHub issues](https://img.shields.io/github/issues/DennisWayo/Nordgren-FracSim)
 ![GitHub forks](https://img.shields.io/github/forks/DennisWayo/Nordgren-FracSim)
 ![GitHub stars](https://img.shields.io/github/stars/DennisWayo/Nordgren-FracSim)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Introduction
 This repository contains the python scripts, data, and documentation for the research paper titled:
