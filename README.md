@@ -1,3 +1,11 @@
+![Build Status](https://img.shields.io/badge/PINN-yes-green)
+![Build Status](https://img.shields.io/badge/VQE-yes-green)
+![Contributions](https://img.shields.io/badge/contributions-welcome-gold)
+![GitHub issues](https://img.shields.io/github/issues/DennisWayo/Nordgren-FracSim)
+![GitHub forks](https://img.shields.io/github/forks/DennisWayo/Nordgren-FracSim)
+![GitHub stars](https://img.shields.io/github/stars/DennisWayo/Nordgren-FracSim)
+![GitHub license](https://img.shields.io/github/license/DennisWayo/Nordgren-FracSim)
+
 ## Introduction
 This repository contains the source code, data, and documentation for the research paper titled:
 **“Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs”.**
@@ -25,7 +33,7 @@ The project combines Physics-Informed Neural Networks (PINNs), Variational Quant
 
 Navigate to the code/pinn directory and run the training script:
 
- ```bash
+ ```python
  nordgren_pinn.ipynb
 ```
 Generated results:
@@ -36,7 +44,7 @@ Generated results:
 
 Navigate to the code/vqe directory and execute the VQE optimization script:
 
- ```bash
+ ```python
  nordgren_vqe.ipynb
 ```
 Generated results:
