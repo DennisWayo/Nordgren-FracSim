@@ -15,44 +15,29 @@ The project combines Physics-Informed Neural Networks (PINNs), Variational Quant
 
 ## Prerequisites
 
-Ensure you have the following installed:
-* Python 3.9+
-* TensorFlow 2.10+
-* Qiskit 0.43+
-* NumPy, Matplotlib, SciPy
+* Google Colab & Qbraid
+* Here is a video of how to get started..
 
-### Installation
-1. Clone the repository:
- ```bash
-git clone https://github.com/username/Nordgren-FracSim.git
-cd Nordgren-FracSim
-```
-
-2. Install dependencies:
- ```bash
-pip install -r requirements.txt
-```
-python pinn_training.py
 
 ## Usage
 
-#### 1. Physics-Informed Neural Networks (PINNs)
+#### 1. Physics-Informed Neural Networks (PINNs)- Google Colab
 
 Navigate to the code/pinn directory and run the training script:
 
  ```bash
-python pinn_training.py
+python nordgren_pinn.ipynb
 ```
 Generated results:
 * Loss curves for training optimizers (Adam, L-BFGS, Newton-CG).
 * Spatiotemporal evolution of fracture width.
 
- #### 2. Variational Quantum Eigensolver (VQE)
+ #### 2. Variational Quantum Eigensolver (VQE)- Qbraid
 
 Navigate to the code/vqe directory and execute the VQE optimization script:
 
  ```bash
-python vqe_optimization.py
+python nordgren_vqe.ipynb
 ```
 Generated results:
 * Quantum circuit visualization.
@@ -85,8 +70,10 @@ Generated plots and visualizations:
 * Spatiotemporal contour maps.
 
 ## Funders
-* Nazarbayev University CRP - 
-* MOHE/UMPSA - 
+This research was funded by Nazarbayev University's Collaborative Research Project (CRP) grant number 111024CRP2014 [Associate Professor Sonny Irawan & Professor Randy Hazlett] and supported by Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) through the MOHE FRGS grant scheme (FRGS/1/2023/TK08/UMP/02/13) and the Faculty of Chemical \& Process Engineering Technology (RDU230146) [Dr Zulkifli Noor]
+
+## Contributors
+Special thanks to Dr. Mudasar Zafar, Mrs Shynar Juziyeva, Professor Camila Martins Saporetti and Professor Leonardo Goliatt
 
 ## Contact
 
