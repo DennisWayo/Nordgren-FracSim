@@ -4,10 +4,10 @@
 ![GitHub issues](https://img.shields.io/github/issues/DennisWayo/Nordgren-FracSim)
 ![GitHub forks](https://img.shields.io/github/forks/DennisWayo/Nordgren-FracSim)
 ![GitHub stars](https://img.shields.io/github/stars/DennisWayo/Nordgren-FracSim)
-![GitHub license](https://img.shields.io/github/license/DennisWayo/Nordgren-FracSim)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introduction
-This repository contains the source code, data, and documentation for the research paper titled:
+This repository contains the python scripts, data, and documentation for the research paper titled:
 **“Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs”.**
 
 The project combines Physics-Informed Neural Networks (PINNs), Variational Quantum Eigensolver (VQE), and Implicit Numerical Schemes to analyze and optimize hydraulic fracturing processes in shale reservoirs.
