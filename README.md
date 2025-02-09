@@ -75,6 +75,18 @@ This research was funded by Nazarbayev University's Collaborative Research Proje
 ## Contributors
 Special thanks to Dr. Mudasar Zafar, Mrs Shynar Juziyeva, Professor Camila Martins Saporetti and Professor Leonardo Goliatt
 
+## Cite preprint version as;
+* Wayo, D. D. K., Irawan, S., Noor, M. Z. B. M., Zafar, M., Juziyeva, S., Saporetti, C. M., ... & Hazlett, R. (2025). Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs.
+
+```python
+@article{wayo2025nordgren,
+  title={Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs},
+  author={Wayo, Dennis Delali Kwesi and Irawan, Sonny and Noor, Mohd Zulkifli Bin Mohamad and Zafar, Mudasar and Juziyeva, Shynar and Saporetti, Camila Martins and Goliatt, Leonardo and Hazlett, Randy},
+  year={2025},
+doi={https://doi.org/10.21203/rs.3.rs-5947578/v1}
+}
+```
+
 ## Contact
 
 For questions or collaborations:
