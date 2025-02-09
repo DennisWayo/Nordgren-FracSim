@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/DennisWayo/Nordgren-FracSim)
 ![GitHub forks](https://img.shields.io/github/forks/DennisWayo/Nordgren-FracSim)
 ![GitHub stars](https://img.shields.io/github/stars/DennisWayo/Nordgren-FracSim)
-![GitHub license](https://img.shields.io/github/license/DennisWayo/Nordgren-FracSim)
+![GitHub license](https://img.shields.io/github/license-MIT-gold)
 
 ## Introduction
 This repository contains the source code, data, and documentation for the research paper titled:
