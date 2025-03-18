@@ -6,8 +6,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/DennisWayo/Nordgren-FracSim)
 ![GitHub stars](https://img.shields.io/github/stars/DennisWayo/Nordgren-FracSim)
 
-
-## Introduction
 This repository contains the python scripts, data, and documentation for the research paper titled:
 **“Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs”.**
 
