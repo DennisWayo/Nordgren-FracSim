@@ -3,8 +3,11 @@
 ![Build Status](https://img.shields.io/badge/VQE-yes-green)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-gold)
 ![GitHub issues](https://img.shields.io/github/issues/DennisWayo/Nordgren-FracSim)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15043799.svg)](https://doi.org/10.5281/zenodo.15043799)
 ![GitHub forks](https://img.shields.io/github/forks/DennisWayo/Nordgren-FracSim)
 ![GitHub stars](https://img.shields.io/github/stars/DennisWayo/Nordgren-FracSim)
+
+
 
 This repository contains the python scripts, data, and documentation for the research paper titled:
 **“Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs”.**
@@ -17,14 +20,6 @@ The project combines Physics-Informed Neural Networks (PINNs), Variational Quant
 * Implicit Numerical Scheme validation for fracture width evolution.
 * Detailed visualization of results (e.g., spatiotemporal evolution, loss curves).
 * Comparison of PINNs, VQE, and implicit schemes for accuracy, computational efficiency, and scalability.
-
-## Getting Started
-
-### Prerequisites
-
-* Google Colab & Qbraid
-* Here is a video of how to get started..
-
 
 ### Usage
 
@@ -76,12 +71,6 @@ Generated plots and visualizations:
 * Loss curves for training optimizers.
 * Spatiotemporal contour maps.
 
-### Funders
-This research was funded by Nazarbayev University's Collaborative Research Project (CRP) grant number 111024CRP2014 [Associate Professor Sonny Irawan & Professor Randy Hazlett] and supported by Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) through the MOHE FRGS grant scheme (FRGS/1/2023/TK08/UMP/02/13) and the Faculty of Chemical \& Process Engineering Technology (RDU230146) [Dr Zulkifli Noor]
-
-### Contributors
-Special thanks to Dr. Mudasar Zafar, Mrs Shynar Juziyeva, Professor Camila Martins Saporetti and Professor Leonardo Goliatt
-
 **Cite preprint version as;**
 
 * Wayo, D. D. K., Irawan, S., Noor, M. Z. B. M., Zafar, M., Juziyeva, S., Saporetti, C. M., ... & Hazlett, R. (2025). Nordgren Physics-Informed Neural Networks to Variational Quantum Eigensolver: Advancing Hydraulic Fracturing Simulations in Shale Reservoirs.
@@ -111,6 +100,11 @@ doi={https://doi.org/10.21203/rs.3.rs-5947578/v1}
   url          = {https://doi.org/10.5281/zenodo.15043799},
 }
 ```
+
+### Funders
+- Nazarbayev University's Collaborative Research Project (111024CRP2014)
+- Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) through the MOHE FRGS grant scheme (FRGS/1/2023/TK08/UMP/02/13)
+- Faculty of Chemical & Process Engineering Technology (RDU230146)
 
 ### Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
