@@ -84,7 +84,9 @@ doi={https://doi.org/10.21203/rs.3.rs-5947578/v1}
 }
 ```
 
-**Cite code version as;***
+**Cite code version as;**
+
+Nordgren-FracSim Python code is the framework used for this paper, researchers are free to modify and cite for various fracturing studies.
 
 ```bibtex
 @software{wayo_2025_15043799,
